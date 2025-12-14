@@ -1,7 +1,7 @@
 # Hydrofor-Control-Panel-SELV-Based-Safety-Design
-This project documents a simple hydrofor (booster pump) control panel designed to prevent dry running when the water level in the storage tank drops below a critical threshold. The system was intentionally designed using SELV (Safety Extra-Low Voltage) principles to reduce electrical shock risk in wet environments.
+EU/This project documents a simple hydrofor (booster pump) control panel designed to prevent dry running when the water level in the storage tank drops below a critical threshold. The system was intentionally designed using SELV (Safety Extra-Low Voltage) principles to reduce electrical shock risk in wet environments.
 
-Bu proje, su deposundaki seviye kritik bir eşik değerin altına düştüğünde hidroforun (basınç artırıcı pompa) kuru çalışmasını önlemek amacıyla tasarlanmış basit bir kontrol panosunu dokümante etmektedir. Sistem, ıslak ortamlarda elektrik çarpması riskini azaltmak için bilinçli olarak SELV (Safety Extra-Low Voltage / Güvenli Ekstra Düşük Gerilim) prensiplerine göre tasarlanmıştır.
+TR/Bu proje, su deposundaki seviye kritik bir eşik değerin altına düştüğünde hidroforun (basınç artırıcı pompa) kuru çalışmasını önlemek amacıyla tasarlanmış basit bir kontrol panosunu dokümante etmektedir. Sistem, ıslak ortamlarda elektrik çarpması riskini azaltmak için bilinçli olarak SELV (Safety Extra-Low Voltage / Güvenli Ekstra Düşük Gerilim) prensiplerine göre tasarlanmıştır.
 
 # Hidrofor Kontrol Panosu – SELV Tabanlı Güvenli Tasarım
 
