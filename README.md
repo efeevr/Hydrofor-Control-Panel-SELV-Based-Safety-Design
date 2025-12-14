@@ -198,7 +198,7 @@ According to IEC 60479-1, alternating currents of approximately 50 mA and above 
 ## Not / Note
 
 **TR**  
-Bu depo, sınırlı imkânlarla dahi temel elektrik mühendisliği prensipleri kullanılarak anlamlı güvenlik kazanımları elde edilebileceğini göstermeyi amaçlar.
+Bu depo, belirli bir uygulamayı eleştirmek için değil; **güvenli tasarım yaklaşımını** örneklemek için hazırlanmıştır. Sınırlı imkânlarla dahi temel elektrik mühendisliği prensipleri uygulanarak anlamlı güvenlik kazanımları elde edilebileceğini göstermeyi amaçlar.
 
 **EN**  
-This repository demonstrates that meaningful safety improvements can be achieved using fundamental electrical engineering principles, even with limited resources.
+This repository is not intended to criticize any specific implementation; it is intended to demonstrate a safe design approach. It aims to show that meaningful safety improvements can be achieved by applying fundamental electrical engineering principles, even with limited resources.
