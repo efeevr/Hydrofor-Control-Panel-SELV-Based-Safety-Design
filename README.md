@@ -8,8 +8,8 @@ TR/Bu proje, su deposundaki seviye kritik bir eşik değerin altına düştüğ�
 
 ---
 
-## General Overview  
-## Genel Bakış
+
+## Genel Bakış/General Overview  
 
 **EN**  
 This project documents a simple control panel designed to prevent dry running of a booster pump when the water level in a storage tank drops below a critical threshold. The system is designed according to SELV (Safety Extra-Low Voltage) principles to reduce the risk of electric shock, particularly in wet and humid environments.
