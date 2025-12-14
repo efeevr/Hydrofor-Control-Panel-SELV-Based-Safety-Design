@@ -62,6 +62,33 @@ Tasarımda, **hataların kaçınılmaz olduğu** varsayılmış ve risk gerilim 
 
 ---
 
+## Su, Deri Direnci ve Elektrik Çarpması
+
+Elektrik çarpmasının şiddetini belirleyen temel parametre gerilim değil, **vücuttan geçen akımdır**. Bu akımı belirleyen en kritik faktör ise insan vücudunun elektriksel direncidir.
+
+İnsan vücudunda en büyük direnç, iç organlar değil **deri tabakasıdır**. Kuru ve sağlam deri yüksek direnç gösterirken, suyla temas bu direnci ciddi biçimde düşürür.
+
+### Kuru ve Islak Deri Direnci
+
+Yaklaşık değerlerle:
+
+* **Kuru deri:** 50–100 kΩ
+* **Nemli deri:** 5–10 kΩ
+* **Islak deri / suya temas:** 1–2 kΩ (bazı durumlarda daha düşük)
+
+Bu düşüş, aynı gerilim altında vücuttan geçen akımın katlanarak artmasına neden olur.
+
+### Su Neden Riski Artırır?
+
+* Su iyon içerir ve iletkendir (özellikle musluk ve depo suyu)
+* Temas alanını büyütür, noktasal teması yaygın temasa dönüştürür
+* Deri üzerindeki koruyucu tabakayı devre dışı bırakır
+* Akımın derin dokulara ulaşmasını kolaylaştırır
+
+Bu nedenle su, elektriği "nötralize eden" değil, **insan vücudu açısından riski büyüten** bir ortamdır.
+
+---
+
 ## Gerilim ve Akım Karşılaştırması (Basitleştirilmiş)
 
 Islak insan vücudunda direnç yaklaşık **1–2 kΩ** seviyesine kadar düşebilir.
@@ -71,7 +98,7 @@ Islak insan vücudunda direnç yaklaşık **1–2 kΩ** seviyesine kadar düşeb
 | Şebeke AC    | 220V    | ~110–220 mA  |
 | SELV Kontrol | 12V     | ~6–12 mA     |
 
-**IEC 60479-1** standardına göre kalp üzerinden geçen ~50 mA ve üzeri akımlar ölümcül olabilir. SELV kontrol devresi bu seviyelerin oldukça altındadır.
+**IEC 60479-1** standardına göre kalp üzerinden geçen yaklaşık **50 mA ve üzeri AC akımlar** ventriküler fibrilasyona yol açabilir ve ölümcül olabilir. SELV kontrol devresi bu seviyelerin oldukça altındadır.
 
 ---
 
@@ -111,3 +138,4 @@ SELV kullanımı, anormal koşullarda dahi riskin sınırlı kalmasını sağlar
 ## Not
 
 Bu depo, belirli bir uygulamayı eleştirmek için değil; **güvenli tasarım yaklaşımını** örneklemek için hazırlanmıştır. Sınırlı imkânlarla dahi temel elektrik mühendisliği prensipleri uygulanarak anlamlı güvenlik kazanımları elde edilebileceğini göstermeyi amaçlar.
+
