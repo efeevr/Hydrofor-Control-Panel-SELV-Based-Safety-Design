@@ -147,6 +147,7 @@ The severity of electric shock is determined by the current flowing through the 
 
 **TR**
 IEC 60479-1 standardına göre kalp üzerinden geçen yaklaşık 50 mA ve üzeri AC akımlar ölümcül olabilir.
+
 **EN**
 According to IEC 60479-1, alternating currents of approximately 50 mA and above passing through the heart may be fatal.
 ---
