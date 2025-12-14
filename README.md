@@ -145,8 +145,10 @@ The severity of electric shock is determined by the current flowing through the 
 | Şebeke AC / Mains AC | 220V | ~110–220 mA |
 | SELV Kontrol / SELV Control | 12V | ~6–12 mA |
 
+**TR**
 IEC 60479-1 standardına göre kalp üzerinden geçen yaklaşık 50 mA ve üzeri AC akımlar ölümcül olabilir.
-
+**EN**
+According to IEC 60479-1, alternating currents of approximately 50 mA and above passing through the heart may be fatal.
 ---
 
 ## Tasarım Felsefesi: Fail-Safe Yaklaşım / Design Philosophy: Fail-Safe Approach
@@ -179,6 +181,11 @@ IEC 60479-1 standardına göre kalp üzerinden geçen yaklaşık 50 mA ve üzeri
 
 ## Referanslar / References
 
+**TR**
+- IEC 60364-4-41 – Elektrik çarpmasına karşı koruma  
+- IEC 60479-1 – Elektrik akımının insan vücudu üzerindeki etkileri  
+
+**EN**
 - IEC 60364-4-41 – Protection against electric shock  
 - IEC 60479-1 – Effects of current on the human body  
 
