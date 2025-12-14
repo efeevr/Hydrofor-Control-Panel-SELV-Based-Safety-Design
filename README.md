@@ -3,6 +3,23 @@ EU/This project documents a simple hydrofor (booster pump) control panel designe
 
 TR/Bu proje, su deposundaki seviye kritik bir eşik değerin altına düştüğünde hidroforun (basınç artırıcı pompa) kuru çalışmasını önlemek amacıyla tasarlanmış basit bir kontrol panosunu dokümante etmektedir. Sistem, ıslak ortamlarda elektrik çarpması riskini azaltmak için bilinçli olarak SELV (Safety Extra-Low Voltage / Güvenli Ekstra Düşük Gerilim) prensiplerine göre tasarlanmıştır.
 
+## İçindekiler / Table of Contents
+
+- [Genel Bakış / General Overview](#genel-bakış--general-overview)
+- [Projenin Amacı / Project Objectives](#projenin-amacı--project-objectives)
+- [Sistem Tanımı / System Description](#sistem-tanımı--system-description)
+- [Bu Uygulamada Elektrik Güvenliği Neden Kritik? / Why Electrical Safety Is Critical in This Application](#bu-uygulamada-elektrik-güvenliği-neden-kritik--why-electrical-safety-is-critical-in-this-application)
+- [SELV (Güvenli Ekstra Düşük Gerilim) Yaklaşımı / SELV (Safety Extra-Low Voltage) Approach](#selv-güvenli-ekstra-düşük-gerilim-yaklaşımı--selv-safety-extra-low-voltage-approach)
+- [Neden 12V DC Seçildi? / Why 12V DC Was Selected](#neden-12v-dc-seçildi--why-12v-dc-was-selected)
+- [Su, Deri Direnci ve Elektrik Çarpması / Water, Skin Resistance, and Electric Shock](#su-deri-direnci-ve-elektrik-çarpması--water-skin-resistance-and-electric-shock)
+- [Kuru ve Islak Deri Direnci / Typical Skin Resistance Values](#kuru-ve-islak-deri-direnci--typical-skin-resistance-values)
+- [Gerilim ve Akım Karşılaştırması (Basitleştirilmiş) / Voltage and Current Comparison (Simplified)](#gerilim-ve-akım-karşılaştırması-basitleştirilmiş--voltage-and-current-comparison-simplified)
+- [Tasarım Felsefesi: Fail-Safe Yaklaşım / Design Philosophy: Fail-Safe Approach](#tasarım-felsefesi-fail-safe-yaklaşım--design-philosophy-fail-safe-approach)
+- [Kapsam ve Sınırlamalar / Scope and Limitations](#kapsam-ve-sınırlamalar--scope-and-limitations)
+- [Referanslar / References](#referanslar--references)
+- [Not / Note](#not--note)
+
+
 # Su Seviyesine Bağlı Hidrofor Koruma Panosu  
 # Water Level Based Booster Pump Protection Panel
 
